@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James @JSITAssistance
-- 👀 I’m interested in ... Tech, Coding and cars
-- 🌱 I’m currently learning ... Coding to create widgets for MacOS
+- 👀 I’m interested in Tech, Coding and cars
+- 🌱 I’m currently learning to coding and hopefully create neat widgets for MacOS
 - 📫 How to reach me ... Support@jsitassistance.uk
 
 <!---
